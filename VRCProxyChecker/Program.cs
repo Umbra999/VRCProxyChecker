@@ -1,0 +1,3 @@
+﻿using VRCProxyChecker;
+
+Main.Init();
